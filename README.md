@@ -1,6 +1,6 @@
 # News Reader App - Week 6 Assignment
 
-A modern, cross-platform News Reader application built with Kotlin Multiplatform and Compose Multiplatform. This project implements a clean "Red Velvet" design system and adheres to the Week 6 assignment requirements, including API consumption, StateFlow management, and the Repository pattern.
+A modern, cross-platform News Reader application built with Kotlin Multiplatform and Compose Multiplatform. This project implements a clean design system and adheres to the Week 6 assignment requirements, including API consumption, StateFlow management, and the Repository pattern.
 
 ## Features
 * **Read Latest News:** Fetch and display a list of current articles with titles, descriptions, and dynamic metadata (time ago, read time, views).
@@ -41,14 +41,14 @@ The app consumes data from a public REST API:
       <b>News Detail</b>
     </td>
     <td align="center">
-      <img src="assets/ss4.jpeg" width="250"><br>
-      <b>Saved News</b>
+      <img src="assets/ss2.jpeg" width="250"><br>
+      <b>Profile Page</b>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="assets/ss2.jpeg" width="250"><br>
-      <b>Profile Page</b>
+      <img src="assets/ss4.jpeg" width="250"><br>
+      <b>Saved News</b>
     </td>
     <td></td>
   </tr>
