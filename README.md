@@ -24,20 +24,36 @@ The app consumes data from a public REST API:
 
 ## Screenshots
 
-![Loading to Home](assets/ss1.jpeg)
-Description: Loading state transitioning to Home page.
+<table>
+  <tr>
+    <td align="center">
+      <img src="assets/ss1.jpeg" width="250"><br>
+      <b>Loading to Home</b>
+    </td>
+    <td align="center">
+      <img src="assets/ss5.jpeg" width="250"><br>
+      <b>Home News List</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="assets/ss3.jpeg" width="250"><br>
+      <b>News Detail</b>
+    </td>
+    <td align="center">
+      <img src="assets/ss4.jpeg" width="250"><br>
+      <b>Saved News</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="assets/ss2.jpeg" width="250"><br>
+      <b>Profile Page</b>
+    </td>
+    <td></td>
+  </tr>
+</table>
 
-![Profile Page](assets/ss2.jpeg)
-Description: Profile screen.
-
-![News Detail](assets/ss3.jpeg)
-Description: Detail article page.
-
-![Saved News](assets/ss4.jpeg)
-Description: Saved news screen.
-
-![Home News List](assets/ss5.jpeg)
-Description: Home page displaying list of news articles.
 
 ## How to Run
 
