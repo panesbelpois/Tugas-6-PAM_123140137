@@ -47,6 +47,7 @@ kotlin {
                 implementation("io.ktor:ktor-client-logging:$ktorVersion")
 
                 implementation("org.jetbrains.kotlinx:kotlinx-serialization-json:1.6.2")
+                implementation(libs.multiplatform.settings.no.arg)
             }
         }
 
